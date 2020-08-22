@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Open Chair
 
 You can use the [editor on GitHub](https://github.com/ojenshammasian/Open-Chair/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
